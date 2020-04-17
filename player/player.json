@@ -1,0 +1,1009 @@
+[
+    {
+	
+	        "image": "./assets/player23.png",
+        "answers": ["ميسي"]
+    },
+    {
+	        "image": "./assets/player.png",
+        "answers": ["بنزيما"]
+    },
+    {
+	        "image": "./assets/player197.png",
+        "answers": ["ريبيري"]
+    },
+    {
+	        "image": "./assets/player170.png",
+        "answers": ["صلاح"]
+    },
+    {
+	        "image": "./assets/player172.png",
+        "answers": ["ديمبيلي"]
+    },
+    {
+	        "image": "./assets/player181.png",
+        "answers": ["ماتويدي"]
+    },
+    {
+	        "image": "./assets/player1.png",
+        "answers": ["بن عطيه"]
+    },
+    {
+	        "image": "./assets/player182.png",
+        "answers": ["اغويرو"]
+    },
+    {
+
+	        "image": "./assets/player183.png",
+        "answers": ["جريزمان"]
+    },
+    {
+	        "image": "./assets/player3.png",
+        "answers": ["محرز"]
+    },
+    {
+	        "image": "./assets/player5.png",
+        "answers": ["كانتي"]
+    },
+    {
+	        "image": "./assets/player13.png",
+        "answers": ["اسكو"]
+    },
+    {
+	        "image": "./assets/player14.png",
+        "answers": ["فاردي"]
+    },
+    {
+
+	        "image": "./assets/player15.png",
+        "answers": ["سانشيز"]
+    },
+    {
+	        "image": "./assets/player16.png",
+        "answers": ["سليماني"]
+    },
+    {
+	        "image": "./assets/player24.png",
+        "answers": ["روبن"]
+	},
+    {
+	        "image": "./assets/player25.png",
+ 
+        "answers": ["ألفيس"]
+	},
+    {
+	        "image": "./assets/player195.png",
+ 
+        "answers": ["تيرشتيغن"]
+    },
+    {
+	        "image": "./assets/player26.png",
+ 
+        "answers": ["ستيرلينغ"]
+    },
+    {
+	        "image": "./assets/player84.png",
+ 
+        "answers": ["ديبالا"]
+	
+    },
+    {
+	        "image": "./assets/player32.png",
+ 
+        "answers": ["زيدان"]
+	},
+    {
+	        "image": "./assets/player34.png",
+ 
+        "answers": ["جيرو"]
+	},
+    {
+	        "image": "./assets/player192.png",
+ 
+        "answers": ["رويس"]
+	},
+    {
+	        "image": "./assets/player37.png",
+ 
+        "answers": ["أومتيتي"]
+    },
+    {
+	        "image": "./assets/player2.png",
+ 
+        "answers": ["حكيمي"]
+	},
+    {
+	        "image": "./assets/player39.png",
+ 
+        "answers": ["هاريكين"]
+    },
+    {
+	        "image": "./assets/player40.png",
+ 
+        "answers": ["دافيدلويز"]
+    },
+    {
+	        "image": "./assets/player41.png",
+ 
+        "answers": ["موراتا"]
+    },
+    {
+	        "image": "./assets/player144.png",
+ 
+        "answers": ["كاكا"]
+    },
+    {
+	        "image": "./assets/player146.png",
+ 
+        "answers": ["بوفون"]
+    },
+    {
+	        "image": "./assets/player115.png",
+ 
+        "answers": ["غوتزه"]
+    },
+    {
+	        "image": "./assets/player116.png",
+ 
+        "answers": ["كيليني"]
+    },
+    {
+	        "image": "./assets/player123.png",
+ 
+        "answers": ["كارفاخال"]
+	},
+    {
+	        "image": "./assets/player117.png",
+ 
+        "answers": ["بيدرو"]
+	},
+    {
+	        "image": "./assets/player147.png",
+ 
+        "answers": ["خاميس"]
+    },
+    {
+	        "image": "./assets/player19.png",
+ 
+        "answers": ["فيصلفجر"]
+    },
+    {
+	        "image": "./assets/player148.png",
+ 
+        "answers": ["فلايني"]
+    },
+    {
+	        "image": "./assets/player175.png",
+ 
+        "answers": ["مبابي"]
+    },
+    {
+	        "image": "./assets/player151.png",
+ 
+        "answers": ["كافاني"]
+    },
+    {
+	        "image": "./assets/player152.png",
+ 
+        "answers": ["نيمار"]
+    },
+    {
+	        "image": "./assets/player49.png",
+ 
+        "answers": ["نوير"]
+    },
+    {
+	        "image": "./assets/player50.png",
+ 
+        "answers": ["كاغاوا"]
+    },
+    {
+	        "image": "./assets/player177.png",
+ 
+        "answers": ["مارادونا"]
+	},
+    {
+	        "image": "./assets/player51.png",
+ 
+        "answers": ["هازارد"]
+    },
+    {
+	        "image": "./assets/player103.png",
+ 
+        "answers": ["بيل"]
+	},
+    {
+	        "image": "./assets/player85.png",
+ 
+        "answers": ["باستوري"]
+    },
+    {
+	        "image": "./assets/player87.png",
+ 
+        "answers": ["رافينيا"]
+    },
+    {
+	        "image": "./assets/player52.png",
+ 
+        "answers": ["بوجبا"]
+    },
+    {
+	        "image": "./assets/player54.png",
+ 
+        "answers": ["ستوريدج"]
+    },
+    {
+	        "image": "./assets/player55.png",
+ 
+        "answers": ["سيلفا"]
+    },
+    {
+	        "image": "./assets/player56.png",
+ 
+        "answers": ["لوكاكو"]
+    },
+    {
+	        "image": "./assets/player201.png",
+ 
+        "answers": ["هيجواين"]
+    },
+    {
+	        "image": "./assets/player57.png",
+ 
+        "answers": ["إنييستا"]
+    },
+    {
+	        "image": "./assets/player58.png",
+ 
+        "answers": ["أسينسيو"]
+    },
+    {
+	        "image": "./assets/player61.png",
+ 
+        "answers": ["لافيتزي"]
+    },
+    {
+	        "image": "./assets/player62.png",
+ 
+        "answers": ["أستوري"]
+    },
+    {
+	        "image": "./assets/player64.png",
+ 
+        "answers": ["بانيغا"]
+    },
+    {
+	        "image": "./assets/player6.png",
+ 
+        "answers": ["دييغوكوستا"]
+	},
+    {
+	        "image": "./assets/player7.png",
+ 
+        "answers": ["رامزي"]
+    },
+    {
+	        "image": "./assets/player161.png",
+ 
+        "answers": ["رونالدو"]
+    },
+    {
+	        "image": "./assets/player8.png",
+ 
+        "answers": ["ديروسي"]
+    },
+    {
+	        "image": "./assets/player4.png",
+ 
+        "answers": ["جوردان"]
+    },
+    {
+	        "image": "./assets/player27.png",
+ 
+        "answers": ["باولينيو"]
+    },
+    {
+	        "image": "./assets/player68.png",
+ 
+        "answers": ["مودريتش"]
+    },
+    {
+	        "image": "./assets/player189.png",
+ 
+        "answers": ["أوباميانغ"]
+    },
+    {
+	        "image": "./assets/player69.png",
+ 
+        "answers": ["نافاس"]
+    },
+    {
+	        "image": "./assets/player70.png",
+ 
+        "answers": ["ويليان"]
+    },
+    {
+	        "image": "./assets/player71.png",
+ 
+        "answers": ["كاندريفا"]
+    },
+    {
+	        "image": "./assets/player72.png",
+ 
+        "answers": ["فاران"]
+    },
+    {
+	        "image": "./assets/player74.png",
+ 
+        "answers": ["كومباني"]
+    },
+    {
+	        "image": "./assets/player200.png",
+ 
+        "answers": ["سواريز"]
+    },
+    {
+	        "image": "./assets/player18.png",
+ 
+        "answers": ["النني"]
+	},
+    {
+	        "image": "./assets/player75.png",
+ 
+        "answers": ["ديخيا"]
+    },
+    {
+	        "image": "./assets/player76.png",
+ 
+        "answers": ["كاراسكو"]
+    },
+    {
+	        "image": "./assets/player59.png",
+ 
+        "answers": ["بيكيه"]
+    },
+    {
+	        "image": "./assets/player60.png",
+ 
+        "answers": ["أوتاميندي"]
+    },
+    {
+	        "image": "./assets/player33.png",
+ 
+        "answers": ["رونالدو"]
+    },
+    {
+	        "image": "./assets/player79.png",
+ 
+        "answers": ["فيرمينو"]
+    },
+    {
+	        "image": "./assets/player168.png",
+ 
+        "answers": ["مارسيلو"]
+    },
+    {
+	        "image": "./assets/player80.png",
+ 
+        "answers": ["بيرلو"]
+    },
+    {
+	        "image": "./assets/player194.png",
+ 
+        "answers": ["برافو"]
+    },
+    {
+	        "image": "./assets/player196.png",
+ 
+        "answers": ["راؤول"]
+    },
+    {
+	        "image": "./assets/player199.png",
+ 
+        "answers": ["مارتيال"]
+    },
+    {
+	        "image": "./assets/player81.png",
+ 
+        "answers": ["سمولينغ"]
+    },
+    {
+	        "image": "./assets/player82.png",
+ 
+        "answers": ["كورتوالا"]
+    },
+    {
+	        "image": "./assets/player83.png",
+ 
+        "answers": ["بوسكيتش"]
+    },
+    {
+	        "image": "./assets/player47.png",
+ 
+        "answers": ["كاسياس"]
+	},
+    {
+	        "image": "./assets/player88.png",
+ 
+        "answers": ["فيغو"]
+    },
+    {
+	        "image": "./assets/player89.png",
+ 
+        "answers": ["بواتينغ"]
+    },
+    {
+	        "image": "./assets/player12.png",
+ 
+        "answers": ["راموس"]
+    },
+    {
+	        "image": "./assets/player90.png",
+ 
+        "answers": ["تونيكروس"] 
+    },
+    {
+	        "image": "./assets/player149.png",
+ 
+        "answers": ["موتينهو"]
+    },
+    {
+	        "image": "./assets/player17.png",
+ 
+        "answers": ["رابيو"]
+    },
+    {
+	        "image": "./assets/player133.png",
+ 
+        "answers": ["خضيرة"]
+	},
+    {
+	        "image": "./assets/player198.png",
+ 
+        "answers": ["لوريس"]
+    },
+    {
+	        "image": "./assets/player20.png",
+ 
+        "answers": ["جوهارت"]
+	},
+    {
+	        "image": "./assets/player21.png",
+ 
+        "answers": ["ألكاسير"]
+	},
+    {
+	        "image": "./assets/player22.png",
+ 
+        "answers": ["ساول"]
+    },
+    {
+	        "image": "./assets/player150.png",
+ 
+        "answers": ["كلوزه"]
+    },
+    {
+	        "image": "./assets/player91.png",
+ 
+        "answers": ["مونتويا"]
+	},
+    {
+	        "image": "./assets/player92.png",
+ 
+        "answers": ["باتشواي"]
+    },
+    {
+	        "image": "./assets/player167.png",
+ 
+        "answers": ["زيدان"]
+    },
+    {
+	        "image": "./assets/player93.png",
+ 
+        "answers": ["روبينيو"]
+    },
+    {
+	        "image": "./assets/player94.png",
+ 
+        "answers": ["أوين"]
+    },
+    {
+	        "image": "./assets/player95.png",
+ 
+        "answers": ["ساندرو"]
+    },
+    {
+	        "image": "./assets/player96.png",
+ 
+        "answers": ["مايورال"]
+    },
+    {
+	        "image": "./assets/player97.png",
+ 
+        "answers": ["دانيلو"]
+    },
+    {
+	        "image": "./assets/player46.png",
+ 
+        "answers": ["فالديز"]
+    },
+    {
+	        "image": "./assets/player179.png",
+ 
+        "answers": ["راشفورد"]
+    },
+    {
+	        "image": "./assets/player100.png",
+ 
+        "answers": ["باكايوكو"]
+
+
+    },
+    {
+	        "image": "./assets/player178.png",
+ 
+        "answers": ["إنسيني"]
+    },
+    {
+	        "image": "./assets/player102.png",
+ 
+        "answers": ["مولر"]
+    },
+    {
+	        "image": "./assets/player53.png",
+ 
+        "answers": ["ميرتيساكر"]
+    },
+    {
+	        "image": "./assets/player104.png",
+ 
+        "answers": ["دجيكو"]
+	},
+    {
+	        "image": "./assets/player105.png",
+ 
+        "answers": ["رونالدينيو"]
+	},
+    {
+	        "image": "./assets/player106.png",
+ 
+        "answers": ["أوبلاك"]
+	},
+    {
+	        "image": "./assets/player169.png",
+ 
+        "answers": ["رونالدو"]
+	},
+    {
+	        "image": "./assets/player107.png",
+ 
+        "answers": ["جودين"]
+    },
+    {
+	        "image": "./assets/player9.png",
+ 
+        "answers": ["كوريا"]
+    },
+    {
+	        "image": "./assets/player108.png",
+ 
+        "answers": ["فاردي"]
+	},
+    {
+	        "image": "./assets/player109.png",
+ 
+        "answers": ["كوادرادو"]
+	},
+    {
+	        "image": "./assets/player110.png",
+ 
+        "answers": ["فاليرو"]
+    },
+    {
+	        "image": "./assets/player42.png",
+ 
+        "answers": ["تشيك"]
+    },
+    {
+	        "image": "./assets/player43.png",
+ 
+        "answers": ["سيميدو"]
+    },
+    {
+	        "image": "./assets/player44.png",
+ 
+        "answers": ["مانغالا"]
+    },
+    {
+	        "image": "./assets/player45.png",
+ 
+        "answers": ["جيوفاني"]
+	},
+    {
+	        "image": "./assets/player98.png",
+ 
+        "answers": ["كاسيميرو"]
+    },
+    {
+	        "image": "./assets/player111.png",
+ 
+        "answers": ["هوميلس"]
+	},
+    {
+	        "image": "./assets/player77.png",
+ 
+        "answers": ["دولوفيو"]
+	},
+    {
+	        "image": "./assets/player30.png",
+ 
+        "answers": ["بيليه"]
+	},
+    {
+	        "image": "./assets/player31.png",
+ 
+        "answers": ["بيانيتش"]
+    },
+    {
+	        "image": "./assets/player145.png",
+ 
+        "answers": ["دوناروما"]
+	},
+    {
+	        "image": "./assets/player113.png",
+ 
+        "answers": ["لاميلا"]
+	},
+    {
+	        "image": "./assets/player114.png",
+ 
+        "answers": ["ميليك"]
+	},
+    {
+	        "image": "./assets/player118.png",
+ 
+        "answers": ["كوشيلني"]
+	},
+    {
+	        "image": "./assets/player119.png",
+ 
+        "answers": ["يارمولنكو"]
+	},
+    {
+	        "image": "./assets/player120.png",
+ 
+        "answers": ["بيبي"]
+	},
+    {
+	        "image": "./assets/player121.png",
+ 
+        "answers": ["روني"]
+	},
+    {
+	        "image": "./assets/player124.png",
+ 
+        "answers": ["باييت"]
+	},
+    {
+	        "image": "./assets/player125.png",
+ 
+        "answers": ["فاسكيز"]
+	},
+    {
+	        "image": "./assets/player128.png",
+ 
+        "answers": ["مورايس"]
+	},
+    {
+	        "image": "./assets/player129.png",
+ 
+        "answers": ["كوندوجبيا"]
+	},
+    {
+	        "image": "./assets/player130.png",
+ 
+        "answers": ["كاييخون"]
+	},
+    {
+	        "image": "./assets/player131.png",
+ 
+        "answers": ["والكوت"]
+    },
+    {
+	        "image": "./assets/player135.png",
+ 
+        "answers": ["كانافارو"]
+    },
+    {
+	        "image": "./assets/player136.png",
+ 
+        "answers": ["فابريغاس"]
+    },
+    {
+	        "image": "./assets/player137.png",
+ 
+        "answers": ["لاكازيتي"]
+    },
+    {
+	        "image": "./assets/player138.png",
+ 
+        "answers": ["ماسكيرانو"]
+    },
+    {
+	        "image": "./assets/player63.png",
+ 
+        "answers": ["باريخا"]
+    },
+    {
+	        "image": "./assets/player139.png",
+ 
+        "answers": ["ميراندا"]
+	},
+    {
+	        "image": "./assets/player140.png",
+ 
+        "answers": ["باديلي"]
+    },
+    {
+	        "image": "./assets/player141.png",
+ 
+        "answers": ["ويلشر"]
+    },
+    {
+	        "image": "./assets/player78.png",
+ 
+        "answers": ["موريلو"]
+	},
+    {
+	        "image": "./assets/player86.png",
+ 
+        "answers": ["تريزيغيه"]
+    },
+    {
+	        "image": "./assets/player48.png",
+ 
+        "answers": ["لييفا"]
+    },
+    {
+	        "image": "./assets/player142.png",
+ 
+        "answers": ["جيمس"]
+    },
+    {
+	        "image": "./assets/player163.png",
+ 
+        "answers": ["ميسي"]
+    },
+    {
+	        "image": "./assets/player73.png",
+ 
+        "answers": ["ايمريتشان"]
+    },
+    {
+	        "image": "./assets/player143.png",
+ 
+        "answers": ["فيرمايلين"]
+    },
+    {
+	        "image": "./assets/player153.png",
+ 
+        "answers": ["فرناندينهو"]
+	},
+    {
+	        "image": "./assets/player154.png",
+ 
+        "answers": ["ألابا"]
+    },
+    {
+	        "image": "./assets/player155.png",
+ 
+        "answers": ["ريينا"]
+    },
+    {
+	        "image": "./assets/player156.png",
+ 
+        "answers": ["هساي"]
+    },
+    {
+	        "image": "./assets/player157.png",
+ 
+        "answers": ["يوري"]
+    },
+    {
+	        "image": "./assets/player158.png",
+ 
+        "answers": ["ماركيزيو"] 
+    },
+    {
+	        "image": "./assets/player29.png",
+ 
+        "answers": ["سيبايوس"]
+    },
+    {
+	        "image": "./assets/player159.png",
+ 
+        "answers": ["شوكر"]
+    },
+    {
+	        "image": "./assets/player160.png",
+ 
+        "answers": ["مينيوليه"]
+    },
+    {
+	        "image": "./assets/player10.png",
+ 
+        "answers": ["ليمار"]
+	},
+    {
+	        "image": "./assets/player11.png",
+ 
+        "answers": ["غابرييل"]
+    },
+    {
+	        "image": "./assets/player162.png",
+ 
+        "answers": ["سيلفا"]
+    },
+    {
+	        "image": "./assets/player164.png",
+ 
+        "answers": ["فورلان"]
+    },
+    {
+	        "image": "./assets/player28.png",
+ 
+        "answers": ["بلاتيني"]
+    },
+    {
+	        "image": "./assets/player126.png",
+ 
+        "answers": ["درينكووتر"]
+	},
+    {
+	        "image": "./assets/player127.png",
+ 
+        "answers": ["مونتوليفو"]
+    },
+    {
+	        "image": "./assets/player132.png",
+ 
+        "answers": ["لينديلوف"]
+	},
+    {
+	        "image": "./assets/player38.png",
+ 
+        "answers": ["ماتيا"]
+    },
+    {
+	        "image": "./assets/player134.png",
+ 
+        "answers": ["كالهانوغلو"]
+	},
+    {
+	        "image": "./assets/player165.png",
+ 
+        "answers": ["ناينجولان"]
+    },
+    {
+	        "image": "./assets/player166.png",
+
+        "answers": ["كوفاسيتش"]
+    },
+    {
+	        "image": "./assets/player173.png",
+ 
+        "answers": ["هامسيك"]
+    },
+    {
+	        "image": "./assets/player174.png",
+ 
+        "answers": ["دياز"]
+    },
+    {
+	        "image": "./assets/player65.png",
+ 
+        "answers": ["ميراندا"]
+    },
+    {
+	        "image": "./assets/player66.png",
+ 
+        "answers": ["سكرينيار"]
+    },
+    {
+	        "image": "./assets/player67.png",
+ 
+        "answers": ["خاومي"]
+    },
+    {
+	        "image": "./assets/player122.png",
+ 
+        "answers": ["أزبيليكويتا"]
+	},
+    {
+	        "image": "./assets/player176.png",
+ 
+        "answers": ["ديباي"]
+    },
+    {
+	        "image": "./assets/player101.png",
+ 
+        "answers": ["شيفتشينكو"]
+    },
+    {
+	        "image": "./assets/player99.png",
+ 
+        "answers": ["نيدفيد"]
+    },
+    {
+	        "image": "./assets/player180.png",
+ 
+        "answers": ["موسيس"]
+	},
+    {
+	        "image": "./assets/player184.png",
+ 
+        "answers": ["هاندانوفيش"]
+    },
+    {
+	        "image": "./assets/player185.png",
+ 
+        "answers": ["ليفاندوفسكي"]
+    },
+    {
+	        "image": "./assets/player186.png",
+ 
+        "answers": ["ألبيول"]
+    },
+    {
+	        "image": "./assets/player187.png",
+ 
+        "answers": ["زاباتا"]
+    },
+    {
+	        "image": "./assets/player188.png",
+ 
+        "answers": ["جاميرو"]
+    },
+    {
+	        "image": "./assets/player190.png",
+ 
+        "answers": ["ساني"]
+    },
+    {
+	        "image": "./assets/player191.png",
+ 
+        "answers": ["توري"]
+    },
+    {
+	        "image": "./assets/player193.png",
+ 
+        "answers": ["بيريسيتش"]
+    },
+    {
+	        "image": "./assets/player35.png",
+ 
+        "answers": ["ماندجوكيتش"]
+    },
+    {
+	        "image": "./assets/player36.png",
+ 
+        "answers": ["سوباسيتش"]
+	},
+    {
+	        "image": "./assets/player171.png",
+ 
+        "answers": ["روماريو"]
+    },
+    {
+	        "image": "./assets/player202.png",
+ 
+        "answers": ["ناغاتومو"]
+    },
+    {
+	        "image": "./assets/player112.png",
+        "answers": ["ميرتينز"]
+    },
+    {
+	
+    }
+]
